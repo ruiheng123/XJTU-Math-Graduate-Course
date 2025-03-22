@@ -12,7 +12,7 @@
 
 照讲教材：[![PDF Status](https://img.shields.io/badge/PDF-do_Carmo英文教材-red)](do_Carmo英文教材.pdf) （基本仅包含前面120页）
 
-参考教材：[![PDF Status](https://img.shields.io/badge/PDF-北师大中文教材-red)](北师大中文教版.pdf) （中文版）
+参考教材：[![PDF Status](https://img.shields.io/badge/PDF-北师大中文教材-red)](北师大中文版.pdf) （中文版）
 
 ### 微分流形
 
