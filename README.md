@@ -12,13 +12,13 @@
 
 在如下五门中选择三门。
 
-|     课程名称     | 课程说明                                                                                                                                      |
-| :--------------: | --------------------------------------------------------------------------------------------------------------------------------------------- |
-|    非线性分析    |                                                                                                                                               |
-| 凸分析与优化理论 | [![Convex Optimization README](https://img.shields.io/badge/README-Convex_Optimization-blue?style=flat-square)](./Convex%20optimization/README.md) |
-|     黎曼几何     | [![Riemann Geometry README](https://img.shields.io/badge/README-Riemann_Geometry-blue?style=flat-square)](./Riemann%20Geometry/README.md)  |
-|    偏微分方程    |                                                                                                                                               |
-|      代数学      |                                                                                                                                               |
+|       课程名称       | 课程说明                                                                                                                                      |
+| :------------------: | --------------------------------------------------------------------------------------------------------------------------------------------- |
+|      非线性分析      |                                                                                                                                               |
+|   凸分析与优化理论   | [![Convex Optimization README](https://img.shields.io/badge/README-Convex_Optimization-blue?style=flat-square)](./Convex%20optimization/README.md) |
+|       黎曼几何       | [![Riemann Geometry README](https://img.shields.io/badge/README-Riemann_Geometry-blue?style=flat-square)](./Riemann%20Geometry/README.md)          |
+| 偏微分方程的现代理论 |                                                                                                                                               |
+|        代数学        |                                                                                                                                               |
 
 ### 统计学（学硕）
 
@@ -32,11 +32,11 @@
 
 ### 应用统计（专硕）
 
-|   课程名称   | 课程说明 |
-| :----------: | -------- |
-|  Optimization Method  |          |
-|  机器学习  |          |
-| Python与深度学习 |          |
+|       课程名称       | 课程说明 |
+| :------------------: | -------- |
+| Optimization Method |          |
+|       机器学习       |          |
+|   Python与深度学习   |          |
 | 大数据分析与处理方法 |          |
 
 ---
